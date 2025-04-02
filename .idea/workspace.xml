@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e71bd19-07a9-4caf-9507-85a8e9dd7ae8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Portpolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/me.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portpolio.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portpolio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portpolio.js" afterDir="false" />
-    </list>
+    <list default="true" id="1e71bd19-07a9-4caf-9507-85a8e9dd7ae8" name="Changes" comment="portpolio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,11 +67,78 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743605535370</updated>
-      <workItem from="1743605536775" duration="3223000" />
+      <workItem from="1743605536775" duration="3565000" />
     </task>
+    <task id="LOCAL-00001" summary="portpolio">
+      <option name="closed" value="true" />
+      <created>1743609128820</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743609128820</updated>
+    </task>
+    <task id="LOCAL-00002" summary="portpolio">
+      <option name="closed" value="true" />
+      <created>1743609141748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743609141748</updated>
+    </task>
+    <task id="LOCAL-00003" summary="portpolio">
+      <option name="closed" value="true" />
+      <created>1743609176819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743609176819</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="portpolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="portpolio" />
   </component>
 </project>
